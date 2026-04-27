@@ -19,9 +19,9 @@
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
  
 <h2>Certifications: </h2>
-  CompTIA Security+
-  CompTIA Network+
-  COBIT 2019 Foundations
+CompTIA Security+ |
+CompTIA Network+ |
+COBIT 2019 Foundations
 
 
 <h2> 🤳 Connect with me:</h2>
