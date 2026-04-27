@@ -1,4 +1,4 @@
-<h1>Hi, I'm Sam! </h1>
+<h1>Hi, I'm Sam!</h1>
 
 <h2>👨‍💻 IT & Cybersecurity Projects:</h2>
 
@@ -17,6 +17,11 @@
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>TBD</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+ 
+<h2>Certifications: </h2>
+  CompTIA Security+
+  CompTIA Network+
+  COBIT 2019 Foundations
 
 
 <h2> 🤳 Connect with me:</h2>
