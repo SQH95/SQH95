@@ -1,27 +1,23 @@
 <h1>Hi, I'm Sam!</h1>
 
-<h2>👨‍💻 IT & Cybersecurity Projects:</h2>
+<a href="https://linkedin.com/in/samuel-hulsey"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-- <b> TBD </b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b> TBD </b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>TBD</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>TBD</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>TBD</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
- 
-<h2>Certifications: </h2>
-CompTIA Security+ |
-CompTIA Network+ |
-COBIT 2019 Foundations
+<h2>Brief Introduction</h2>
+
+I am a technology enthusiast with a passion for security and keeping others safe. I began my cyber career as an IT Helpdesk Technician and now am a Systems and Security Administrator for multiple businesses. In my free time, I like to create and experiment in my homelab environment to better hone my skills.  
+
+## Objective
+
+My journey in information technology has led me to develop a passion for cybersecurity, and I am now eager to transition fully into this field. I am committed to always improving and am eager to accomplish any challenge I may face.
+
+
+<h2>👨‍💻 IT & Cybersecurity Projects</h2>
+
+
+<h2> Certifications</h2>
+<img src="https://img.shields.io/badge/-CISSP-006400?&style=for-the-badge&logo=ISC2&logoColor=white" />
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 
 
 <h2> 🤳 Connect with me:</h2>
@@ -33,17 +29,3 @@ COBIT 2019 Foundations
 [linkedin]: https://linkedin.com/in/samuel-hulsey
 
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
